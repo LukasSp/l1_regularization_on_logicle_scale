@@ -1,0 +1,13 @@
+parameterId	parameterName	parameterScale	lowerBound	upperBound	nominalValue	estimate	priorType	priorParameters	hierarchicalOptimization (optional)
+delta_EL	delta_{EL}	lin	0	1	8.05971443e-01	1
+delta_LM	delta_{LM}	lin	0	1	6.00623948e-01	1
+delta_NE	delta_{NE}	lin	0	1	5.58786796e-01	1
+mu_EE	mu_{EE}	lin	0	1	1.72864456e-01	1
+mu_LE	mu_{LE}	lin	0	1	8.43610184e-07	1
+mu_LL	mu_{LL}	lin	0	1	6.33769596e-02 	1
+mu_N	mu_{N}	lin	0	1	8.29346704e-01	1
+mu_P	mu_{P}	lin	0	1	7.54541222e-02	1
+mu_PE	mu_{PE}	lin	0	1	1.15213389e-06	1
+mu_PL	mu_{PL}	lin	0	1	1.67384003e-01	1
+rho_E	rho_{E}	lin	0	1	8.04625215e-01	1
+rho_P	rho_{P}	lin	0	1	7.13520353e-01	1
