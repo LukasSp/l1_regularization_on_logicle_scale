@@ -1,0 +1,7 @@
+observableId	preequilibrationConditionId	simulationConditionId	measurement	time	observableParameters	noiseParameters	observableTransformation
+x2		model1_data1	0.0	0		sigma_x2	lin
+x2		model1_data1	0.1793237	1		sigma_x2	lin
+x2		model1_data1	0.40270678	5		sigma_x2	lin
+x2		model1_data1	0.63889998	10		sigma_x2	lin
+x2		model1_data1	4.24406706	30		sigma_x2	lin
+x2		model1_data1	9.94822136	60		sigma_x2	lin

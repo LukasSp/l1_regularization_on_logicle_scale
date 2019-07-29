@@ -1,0 +1,4 @@
+parameterId	parameterName	parameterScale	lowerBound	upperBound	nominalValue	estimate	priorType	priorParameters	hierarchicalOptimization (optional)
+k1	k_{1}	lin	0	1	0.57120425	1
+k2	k_{2}	lin	0	1	0.53630567	1
+sigma_x2	\sigma_{x2}	lin	1e-5	1	0.55672023	1
