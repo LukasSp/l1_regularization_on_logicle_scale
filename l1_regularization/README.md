@@ -1,3 +1,4 @@
-# l1 regularization on logicle scale
+# l1 regularization
 
-This is the project of my master thesis, containing all implementations which I used.
+1) regularization: Module to perform l1 regularization. More details in the README inside
+
