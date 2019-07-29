@@ -1,5 +1,5 @@
 """
-    Routines for calculatin and visualizing results from the
+    Routines to visualize results from the
     l1 regularization
 """
 
